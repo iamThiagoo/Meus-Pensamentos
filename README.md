@@ -14,3 +14,32 @@
 
 ## 🧠 Sobre o projeto 
 
+ "Meus Pensamentos" é um projeto que proporciona ao usuário guardar os seus pensamentos durante o seu dia-a-dia.
+
+## 👀 Acompanhe o desenvolvimento do projeto
+
+Para desenvolver a parte lógica do projeto foi realizado duas seções de lives no Youtube. Caso tenha interesse, estará logo abaixo os links:
+
+- (PARTE 1) - https://www.youtube.com/watch?v=ggpdFe0T8aY&ab_channel=ThiagoFerreira
+
+- (PARTE 2) - https://www.youtube.com/watch?v=jRrD5q5c4mU&t=2176s&ab_channel=ThiagoFerreira
+
+## 🚀 Tecnologias
+
+- ✅ PHP
+- ✅ MySQL
+- ✅ CSS
+
+## 👦 Autor
+
+- [@iamthiagoo](https://www.github.com/iamthiagoo)
+
+## 📜 Licença
+
+[MIT](https://github.com/iamThiagoo/meus-pensamentos/blob/master/LICENSE)
+
+## 💡 Feedback
+
+Se você tem algum feedback sobre o projeto, por favor entre em contato através do email <a href="mailto: devthiagoferreira@gmail.com">devthiagoferreira@gmail.com</a> ou do <a href="https://www.linkedin.com/in/iamthiagoferreira/">Meu Linkedin</a> e bora trocar uma idéia 😁
+
+
